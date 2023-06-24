@@ -1,0 +1,3 @@
+classify the  files in the directory according to the extension of the files in the current directory.
+create a desktop shortcut for the important labeled files
+only files are allowed 
